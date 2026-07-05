@@ -6,7 +6,7 @@ A production-grade, highly performant software engineering publication applicati
 ---
 
 ## 🚀 Live Deployment
-- **Production URL:** [Insert your Netlify live link here]
+- **Production URL:** [Live Link](https://blog-app-tech.netlify.app/)
 - **Repository:** [Repo](https://github.com/Ganesh-Chandran005/nextjs-blog-app)
 
 ---
